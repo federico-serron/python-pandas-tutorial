@@ -15,6 +15,7 @@ def splitByTwo(s):
     return s / 2
 applied = my_series.apply(splitByTwo)
 
+# 
 
 # Printing results
 print(applied)
